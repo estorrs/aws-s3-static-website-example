@@ -1,1 +1,1 @@
-# aws-s3-static-website-example
+An example static website with AWS S3
